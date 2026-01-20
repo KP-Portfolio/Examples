@@ -19,13 +19,15 @@ Organa centralizes organizational workflows into a single, intuitive interface. 
 
 ______________________
 
-📦 Dependencies
+🛠️ Install dependencies
+
 * Next.js
 * Chart.js
 
-🛠️ Install dependencies
+🚀 Run the Project
 
-🚀 Running the Project
+* npm run build
+* npm start
 
 Visit:
 http://localhost:3000
