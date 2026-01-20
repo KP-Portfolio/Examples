@@ -1,0 +1,68 @@
+{
+  "appointments": [
+    {
+      "id": 1,
+      "name": "Jackie Chan",
+      "date": "2024-07-01",
+      "time": "10:00 AM",
+      "service": "Setup",
+      "status": "Assigned",
+      "assignee": "Bob Martinez"
+    },
+    {
+      "id": 2,
+      "name": "Sally Ride",
+      "date": "2024-07-01",
+      "time": "11:00 AM",
+      "service": "Training",
+      "status": "Pending",
+      "assignee": "Anna Johnson"
+    },
+    {
+      "id": 3,
+      "name": "Alice Wonder",
+      "date": "2024-07-01",
+      "time": "12:00 PM",
+      "service": "Demo",
+      "status": "Pending",
+      "assignee": "Anna Johnson"
+    },
+    {
+      "id": 4,
+      "name": "Jack Frost",
+      "date": "2026-01-19",
+      "time": "10:30 AM",
+      "service": "Setup",
+      "status": "Assigned",
+      "assignee": "Admin"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "555-1234"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "555-5678"
+    }
+  ],
+  "sales": [
+    {
+      "id": 1,
+      "product": "Monthly License",
+      "tier": "Enterprise",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "product": "6-Month License",
+      "tier": "Standard",
+      "price": 50
+    }
+  ]
+}

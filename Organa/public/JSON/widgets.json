@@ -1,0 +1,33 @@
+[
+  {
+    "id": "bar-basic",
+    "name": "Bar Chart",
+    "type": "bar",
+    "config": {
+      "color": "#60a5fa"
+    }
+  },
+  {
+    "id": "line-basic",
+    "name": "Line Chart",
+    "type": "line",
+    "config": {
+      "color": "#34d399"
+    }
+  },
+  {
+    "id": "pie-basic",
+    "name": "Pie Chart",
+    "type": "pie",
+    "config": {}
+  },
+  {
+    "id": "stat-basic",
+    "name": "Stat Box",
+    "type": "stat",
+    "config": {
+      "label": "Total",
+      "color": "#fbbf24"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1-col",
+    "name": "Single Column",
+    "columns": 1,
+    "areas": ["a", "b", "c"]
+  },
+  {
+    "id": "2-col",
+    "name": "Two Columns",
+    "columns": 2,
+    "areas": ["a", "b", "c", "d"]
+  },
+  {
+    "id": "3-col",
+    "name": "Three Columns",
+    "columns": 3,
+    "areas": ["a", "b", "c", "d", "e", "f"]
+  }
+]

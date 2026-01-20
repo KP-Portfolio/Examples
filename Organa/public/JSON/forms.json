@@ -1,0 +1,44 @@
+[
+  {
+    "id": "appointments",
+    "name": "Appointments",
+    "type": "Assignment",
+    "role": ["Employee", "Manager", "Admin"],
+    "fields": [
+      {
+        "Name": "string",
+        "Date": "date",
+        "Time": "time",
+        "Service": {"type": "select", "options": ["Demo", "Setup", "Training"]},
+        "Status": {"type": "select", "options": ["Assigned", "Open", "Pending", "Closed"]},
+        "Assignee": "string"
+      }
+    ]
+  },
+  {
+    "id": "contacts",
+    "name": "Contacts",
+    "type": "CRM",
+    "role": ["Employee", "Manager", "Admin"],
+    "fields": [
+      {
+        "Name": "string",
+        "Email": "string",
+        "Phone": "string"
+      }
+    ]
+  },
+  {
+    "id": "sales",
+    "name": "Sales",
+    "type": "Ecommerce",
+    "role": ["Employee", "Manager", "Admin"],
+    "fields": [
+      {
+        "Product": "string",
+        "Tier": {"type": "select", "options": ["Enterprise", "Standard"]},
+        "Price": "number"
+      }
+    ]
+  }
+]

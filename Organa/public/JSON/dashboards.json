@@ -1,0 +1,26 @@
+[
+  {
+    "id": "main",
+    "name": "Main Dashboard",
+    "table": "users",
+    "layoutId": "2-col",
+    "widgets": [
+      {
+        "id": "w1",
+        "widgetId": "stat-basic",
+        "area": "a",
+        "mapping": {
+          "type": "count"
+        }
+      },
+      {
+        "id": "w2",
+        "widgetId": "bar-basic",
+        "area": "b",
+        "mapping": {
+          "type": "count"
+        }
+      }
+    ]
+  }
+]

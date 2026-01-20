@@ -1,0 +1,18 @@
+{
+  "title": "How to Use the Organa Knowledge Base",
+  "description": "This article explains how to navigate, search, and create content within the Organa Knowledge Base.",
+  "sections": [
+    {
+      "heading": "Navigation",
+      "body": "Use the sidebar to browse categories and select articles."
+    },
+    {
+      "heading": "Searching",
+      "body": "Use the search bar at the top to quickly find relevant content."
+    },
+    {
+      "heading": "Creating Articles",
+      "body": "Admins can create new articles using the Create button in the top navigation."
+    }
+  ]
+}

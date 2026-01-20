@@ -1,0 +1,26 @@
+[
+  {
+    "id": "r1",
+    "name": "Admin",
+    "canViewUsers": true,
+    "canAssignRoles": true,
+    "canCreate": true,
+    "canDelete": true
+  },
+  {
+    "id": "r2",
+    "name": "Manager",
+    "canViewUsers": true,
+    "canAssignRoles": false,
+    "canCreate": true,
+    "canDelete": false
+  },
+  {
+    "id": "r3",
+    "name": "Employee",
+    "canViewUsers": false,
+    "canAssignRoles": false,
+    "canCreate": false,
+    "canDelete": false
+  }
+]

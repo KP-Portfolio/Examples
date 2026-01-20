@@ -1,0 +1,26 @@
+[
+  {
+    "id": "u1",
+    "Name": "Anna Johnson",
+    "Email": "alice@example.com",
+    "Role": "Admin",
+    "Department": "HR",
+    "Start": "2023-01-01"
+  },
+  {
+    "id": "u2",
+    "Name": "Bob Martinez",
+    "Email": "bob@example.com",
+    "Role": "Manager",
+    "Department": "IT",
+    "Start": "2023-01-01"
+  },
+  {
+    "id": "u3",
+    "Name": "Charlie Smith",
+    "Email": "charlie@example.com",
+    "Role": "Admin",
+    "Department": "Finance",
+    "Start": "2023-01-01"
+  }
+]
