@@ -1,3 +1,3 @@
 # Projects
-* Organa
-* RifRaf
+* Organa - Read ORGANA.md
+* RifRaf - Read RifRaf.md
