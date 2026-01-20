@@ -1,5 +1,4 @@
 # Organa
-______________________
 
 A modular, enterprise‑grade workspace platform designed for organizations that need clean access management, dynamic data tools, and a unified UI for daily operations. Organa is built with a scalable React/Next.js architecture and has several stand out features.
 
@@ -36,7 +35,6 @@ http://localhost:3000
 ______________________
 
 # Navigation
-______________________
 
 You can easily navigate the interface after sign in. Click on sign in at the top right and use:
 
