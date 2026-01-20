@@ -24,10 +24,8 @@ ______________________
 * Chart.js
 
 🛠️ Install dependencies
-npm install
 
 🚀 Running the Project
-npm run dev
 
 Visit:
 http://localhost:3000
