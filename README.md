@@ -1,4 +1,4 @@
-#Organa
+# Organa
 ______________________
 
 A modular, enterprise‑grade workspace platform designed for organizations that need clean access management, dynamic data tools, and a unified UI for daily operations. Organa is built with a scalable React/Next.js architecture and has several stand out features.
